@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi,
+
+I'm Harald, and I am testing out GITHUB.
+
